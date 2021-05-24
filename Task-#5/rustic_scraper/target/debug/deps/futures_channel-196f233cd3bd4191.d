@@ -1,0 +1,11 @@
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/futures_channel-196f233cd3bd4191.rmeta: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs
+
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/libfutures_channel-196f233cd3bd4191.rlib: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs
+
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/futures_channel-196f233cd3bd4191.d: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs
+
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lib.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/lock.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/mod.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/mpsc/queue.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.15/src/oneshot.rs:

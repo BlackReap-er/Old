@@ -1,0 +1,11 @@
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/string_cache-81f590a20728bdeb.rmeta: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs
+
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/libstring_cache-81f590a20728bdeb.rlib: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs
+
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/string_cache-81f590a20728bdeb.d: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs
+
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/lib.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/atom.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/dynamic_set.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/static_sets.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.1/src/trivial_impls.rs:

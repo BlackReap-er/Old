@@ -1,0 +1,12 @@
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/httparse-3cbaf6c4dd4c1956.rmeta: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs
+
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/libhttparse-3cbaf6c4dd4c1956.rlib: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs
+
+/home/reaper/Desktop/amfoss-tasks/Task-#5/rustic_scraper/target/debug/deps/httparse-3cbaf6c4dd4c1956.d: /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs /home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs
+
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs:
+/home/reaper/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs:
